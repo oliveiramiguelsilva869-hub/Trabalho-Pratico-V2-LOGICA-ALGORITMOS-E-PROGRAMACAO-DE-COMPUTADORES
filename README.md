@@ -1,0 +1,2 @@
+# Trabalho-Pratico-V2-LOGICA-ALGORITMOS-E-PROGRAMACAO-DE-COMPUTADORES
+Trabalho prático v02
